@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Bulbasaur",
+        "stock": 5,
+        "price": 10
+    },
+    {
+        "title": "Ivysaur",
+        "stock": 54,
+        "price": 15
+    },
+    {
+        "title": "Venusaur",
+        "stock": 9,
+        "price": 12
+    },
+    {
+        "title": "Charmander",
+        "stock": 2,
+        "price": 18
+    },
+    {
+        "title": "Charmeleon",
+        "stock": 5,
+        "price": 14
+    },
+    {
+        "title": "Charizard",
+        "stock": 10,
+        "price": 77
+    },
+    {
+        "title": "Squirtle",
+        "stock": 8,
+        "price": 22
+    },
+    {
+        "title": "Wartortle",
+        "stock": 4,
+        "price": 45
+    },
+    {
+        "title": "Blastoise",
+        "stock": 1,
+        "price": 12
+    }
+]
